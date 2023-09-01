@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
     font-family: 'FontAwesome';
-    src: url('httpleandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0');
-    src: url('httpleandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), url('httpleandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('httpleandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('httpleandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('httpleandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+    src: url('https://leandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0');
+    src: url('https://leandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot#iefix&v=4.7.0') format('embedded-opentype'), url('https://leandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://leandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://leandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://leandermejia.github.io/TheArchitect/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
